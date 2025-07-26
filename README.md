@@ -21,7 +21,7 @@ To access the dashboard, use the following login details:
 5. Run in browser: `http://localhost/student-management/login.php`
 
 ## 🎥 Demo Video
-[Click to watch](https://youtu.be/Py-2e0y0c4Q)
+[Click to watch](https://www.youtube.com/watch?v=Py-2e0y0c4Q)
 
 ## 📦 Author
 Shayan Khan
